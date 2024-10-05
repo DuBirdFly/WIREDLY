@@ -1,0 +1,8 @@
+
+prj/vcs/*
+!prj/vcs/filelist.f
+!prj/vcs/makefile
+
+prj/modelsim/*
+!prj/modelsim/filelist.f
+!prj/modelsim/run.do
